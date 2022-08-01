@@ -11,6 +11,7 @@ public class calc implements ActionListener{
    calc(){
 	   
 	   JFrame f = new JFrame();
+	   //u
 	   tf1 = new JTextField();
 	   tf1.setBounds(70, 50, 150, 40);
 	   tf2 = new JTextField();
